@@ -54,6 +54,6 @@ Eager to leverage my expertise in incident response, endpoint security, and asse
 </div>
 
 ## Projects
-- Detection Lab
+- [Homelab](https://github.com/ct-scorch/homelab)
 - SOC Automation Project
 - [Security Assesment Findings Report/Springboard Capstone Project](https://github.com/ct-scorch/Security-Assessment-Findings-Report)
