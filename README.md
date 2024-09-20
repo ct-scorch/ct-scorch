@@ -56,3 +56,4 @@ Eager to leverage my expertise in incident response, endpoint security, and asse
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Security Assesment Findings Report (Springboard Capstone Project)
